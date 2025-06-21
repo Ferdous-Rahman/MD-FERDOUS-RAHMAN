@@ -26,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ferdous-rahman&show_icons=true&locale=en" alt="ferdous-rahman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ferdous-rahman&" alt="ferdous-rahman" /></p>
