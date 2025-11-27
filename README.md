@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm MD Ferdous Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate frontend developer, Data analyst from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdous-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="ferdous-rahman" /> </p>
 
 
 - 🌱 I’m currently learning **MernStack**
 
-- 💬 Ask me about **react, Javascript,**
+- 💬 Ask me about **react, Javascript, python, SQL, Machine learning models**
 
 - 📫 How to reach me **ferdousrahman652@gmail.com**
 
