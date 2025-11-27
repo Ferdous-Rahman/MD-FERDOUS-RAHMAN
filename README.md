@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdous-rahman&label=Profile%20views&color=0e75b6&style=flat" alt="ferdous-rahman" /> </p>
 
 
-- 🌱 I’m currently learning **MernStack**
+- 🌱 I’m currently learning **Data science with Machine learning**
 
 - 💬 Ask me about **react, Javascript, python, SQL, Machine learning models**
 
